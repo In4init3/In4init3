@@ -1,5 +1,15 @@
-### Hi there 👋
+c++ and c# based mod creator and enthusiast
 
+not working on much at any time but i make big things sometimes
+
+Check out my youtube (i post vr stuff there) at: https://www.youtube.com/channel/UC1bQ01Ux5xq7dyZyC_kmUIw
+
+Check out my twitch (i might go live on beat saber there) at: https://www.twitch.tv/in4_init3
+
+i specifically mod beat saber and gorilla tag and some other games but those are my mains.
+
+
+In4init3
 <!--
 **In4init3/In4init3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
